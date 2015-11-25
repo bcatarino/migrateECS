@@ -12,5 +12,5 @@ Run as a java application to get the json that describes the indexes in your sou
 ##IndexReplicator
 Run as a java application to fully migrate every index from your source account to your target account.
 
-
+#
 This is a pretty basic implementation that suits my needs. Feel free to use it as it is or improve it.
